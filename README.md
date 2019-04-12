@@ -1,2 +1,3 @@
-##Github Pages
-###Using Cayman Theme
+Github Pages
+
+Using Cayman Theme
